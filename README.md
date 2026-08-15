@@ -8,6 +8,12 @@
 Запустите Kubernetes локально, используя k3s или minikube на свой выбор.
 Добейтесь стабильной работы всех системных контейнеров.
 
+**Ответ 1**
+
+Был установлен kubectl и minikube
+
+![Ответ1](https://github.com/fpykt1990-stack/6-05.Kubetnetes.part1/blob/main/img/img-kub-01.png)
+
 **Задание 2**
 Есть файл с деплоем:
 
