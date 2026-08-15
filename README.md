@@ -55,6 +55,9 @@ redis должен запускаться без пароля;
 
 ![Ответ2](https://github.com/fpykt1990-stack/6-05.Kubernetes.part1/blob/main/img/img-kub-02.png)
 
+![Ответ2](https://github.com/fpykt1990-stack/6-05.Kubernetes.part1/blob/main/img/img-kub-03.png)
+
+
 **Задание 3**
 
 Выполните действия:
@@ -64,6 +67,10 @@ redis должен запускаться без пароля;
 просмотра логов контейнера за последние 5 минут;
 удаления контейнера;
 проброса порта локальной машины в контейнер для отладки.
+
+**Ответ 3**
+
+![Ответ2](https://github.com/fpykt1990-stack/6-05.Kubernetes.part1/blob/main/img/img-kub-04.png)
 
 **Задание 4**
 
