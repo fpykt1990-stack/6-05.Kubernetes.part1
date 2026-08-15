@@ -96,3 +96,6 @@ minikube addons enable ingress
 
 ![Ответ4](https://github.com/fpykt1990-stack/6-05.Kubernetes.part1/blob/main/img/img-kub-05.png)
 
+![Ответ4](https://github.com/fpykt1990-stack/6-05.Kubernetes.part1/blob/main/img/img-kub-06.png)
+
+
