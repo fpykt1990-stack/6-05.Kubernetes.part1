@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: master
-        image: bitnami/redis:6.0.13
+        image: bitnamilegacy/redis:6.0.13
         env:
             - name: ALLOW_EMPTY_PASSWORD
               value: "yes"
