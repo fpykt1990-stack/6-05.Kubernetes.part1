@@ -12,7 +12,7 @@
 
 Был установлен kubectl и minikube
 
-![Ответ1](https://github.com/fpykt1990-stack/6-05.Kubetnetes.part1/blob/main/img/img-kub-01.png)
+![Ответ1](https://github.com/fpykt1990-stack/6-05.Kubernetes.part1/blob/main/img/img-kub-01.png)
 
 **Задание 2**
 Есть файл с деплоем:
